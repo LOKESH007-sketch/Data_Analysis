@@ -1,9 +1,9 @@
 # Data_Analysis
 Analysis the Data of Facebook users 2020 to 2021 of whole countries in world  who have internet users
 
-# Data extraction from https://www.kaggle.com 
+## Data extraction from https://www.kaggle.com 
 
-# STEPS FOLLOWED BY
+## STEPS FOLLOWED BY
 
 
 1. CREATE A DATABASE
@@ -23,3 +23,6 @@ Analysis the Data of Facebook users 2020 to 2021 of whole countries in world  wh
 8.USE WINDOWS FUNCTION LIKE PERCENTAGE_RANK 
 
 9.CONCLUSION ADDED IN EXISTING FILE.
+
+
+GIF-- https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
